@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://londonplumbingpros.ca/sitemap-index.xml
