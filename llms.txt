@@ -1,2 +1,25 @@
 # London Plumbing Pros
-HVAC services in Ontario.
+
+> London Plumbing Pros is a local HVAC company serving London, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-8216  |  Email: contact@londonplumbingpros.ca  |  Website: https://londonplumbingpros.ca
+
+## Key pages
+
+- [Home](https://londonplumbingpros.ca/): London Plumbing Pros homepage with service overview and FAQ
+- [About](https://londonplumbingpros.ca/about/): About the company and service area
+- [Contact](https://londonplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://londonplumbingpros.ca/services/water-heaters/): Water Heaters in London, Ontario
+- [Drain Cleaning](https://londonplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in London, Ontario
+- [Repiping](https://londonplumbingpros.ca/services/repiping/): Repiping in London, Ontario
+- [Fixtures & Toilets](https://londonplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in London, Ontario
+- [Leak Detection & Repair](https://londonplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in London, Ontario
+- [Sump Pumps & Backwater](https://londonplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in London, Ontario
+- [Water Softeners & Filtration](https://londonplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in London, Ontario
+
+## FAQ
+
+Common questions about HVAC service in London are answered on the homepage.
